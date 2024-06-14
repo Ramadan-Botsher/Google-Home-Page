@@ -15,7 +15,7 @@ body{
   height: 100vh;
   display: flex;
   flex-direction: column;
-  background-color: bla;
+  background-color: black;
 }
 header{
   height: 60px;
